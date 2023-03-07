@@ -21,6 +21,10 @@ main, header, footer {
     text-align: center;
     
 }
+
+.card{
+    border: none;
+}
 .container {
     display: flex;
     flex-direction: column;
